@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HtunKhaingLynn
+- 👋 Hi, I’m @htunkhainglynn
 - 👀 I’m interested in system programming and machine learning.
 - 🌱 I’m currently learning computer science.
 - 📫 How to reach me htunkhainglynn13@gmail.com
