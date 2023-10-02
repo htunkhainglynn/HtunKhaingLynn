@@ -10,10 +10,17 @@ I'm a passionate computer science student with a strong appetite for learning an
 
 I'm proficient in a variety of technologies and frameworks, including:
 
-- **Java**: Core Java, Object-Oriented Programming, Design Patterns
-- **Spring Framework**: Spring, Spring Boot, Spring Data, Spring Security
-- **Web Development**: JavaScript, TypeScript, React, HTML, CSS
-- **UI Frameworks**: Bootstrap, Tailwind CSS
+- **Java**: 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" width="20" height="20" /> Core Java, Object-Oriented Programming, Design Patterns
+- **Spring Framework**:
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" width="20" height="20" /> Spring, Spring Boot, Spring Data, Spring Security
+- **Web Development**:
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" width="20" height="20" /> JavaScript, TypeScript, React,
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" width="20" height="20" /> HTML, 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" width="20" height="20" /> CSS
+- **UI Frameworks**:
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" width="20" height="20" /> Bootstrap, 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" width="20" height="20" /> Tailwind CSS
 
 ### Let's Connect
 
