@@ -11,7 +11,7 @@ I'm a passionate computer science student with a strong appetite for learning an
 I'm proficient in a variety of technologies and frameworks, including:
 
 - **Java**: 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" width="20" height="20" /> Core Java, Object-Oriented Programming, Design Patterns
+  <img src="https://icons8.com/icon/13679/java" width="20" height="20" /> Core Java, Object-Oriented Programming, Design Patterns
 - **Spring Framework**:
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" width="20" height="20" /> Spring, Spring Boot, Spring Data, Spring Security
 - **Web Development**:
