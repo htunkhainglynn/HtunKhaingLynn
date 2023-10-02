@@ -10,17 +10,16 @@ I'm a passionate computer science student with a strong appetite for learning an
 
 I'm proficient in a variety of technologies and frameworks, including:
 
-- **Java** <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="20" height="20" />: Core Java, Object-Oriented Programming, Design Patterns
-- **Spring Framework** <img src="https://img.icons8.com/color/48/spring-logo.png" width="20" height="20" />: Spring, Spring Boot, Spring Data, Spring Security
+- **Java**:  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="20" height="20" /> Core Java, Object-Oriented Programming, Design Patterns
+- **Spring Framework**:
+  <img src="https://img.icons8.com/color/48/spring-logo.png" width="20" height="20" /> Spring, Spring Boot, Spring Data, Spring Security
 - **Web Development**:
-  - **JavaScript** <img src="https://img.icons8.com/color/48/javascript--v1.png" width="20" height="20" />
-  - **TypeScript** <img src="https://img.icons8.com/color/48/typescript.png" width="20" height="20" />
-  - **React** <img src="https://img.icons8.com/color/48/react-native.png" width="20" height="20" />
-  - **HTML** <img src="https://img.icons8.com/color/48/html-5.png" width="20" height="20" />
-  - **CSS** <img src="https://img.icons8.com/color/48/css3.png" width="20" height="20" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" width="20" height="20" /> JavaScript, <img width="20" height="20" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> TypeScript, <img width="20" height="20" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> React,
+  <img src="https://img.icons8.com/color/48/html-5.png" width="20" height="20" /> HTML, 
+  <img src="https://img.icons8.com/color/48/css3.png" width="20" height="20" /> CSS
 - **UI Frameworks**:
-  - **Bootstrap** <img src="https://img.icons8.com/color/48/bootstrap.png" width="20" height="20" />
-  - **Tailwind CSS** <img src="https://img.icons8.com/color/48/tailwindcss.png" width="20" height="20" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="20" height="20" /> Bootstrap, 
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" width="20" height="20" /> Tailwind CSS
 
 ### Let's Connect
 
