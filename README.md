@@ -1,10 +1,10 @@
 ### Hi there, I'm Htun Khaing Lynn! 👋
 
-I'm a passionate computer science student with a keen interest in machine learning and AI. Here's a bit more about me:
+I'm a passionate computer science student with a strong appetite for learning and a knack for problem-solving. Here's a bit more about me:
 
-- 🔭 I'm currently learning computer science.
-- 🌱 I'm enthusiastic about exploring the world of machine learning and AI.
-- 📫 You can reach me at htunkhainglynn13@gmail.com.
+- 🔭 I'm currently exploring the world of computer science.
+- 🌱 I have a quick learning ability and thrive on new challenges.
+- 💡 I enjoy problem-solving and tackling complex issues.
 
 ### My Skills
 
