@@ -27,4 +27,3 @@ Feel free to connect with me on GitHub and explore my repositories. If you have 
 
 [![GitHub](https://img.shields.io/github/followers/htunkhainglynn?style=social)](https://github.com/htunkhainglynn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/htun-khaing-lynn-a496b31a7/)
-![Profile Views](https://komarev.com/ghpvc/?username=htunkhainglynn)
